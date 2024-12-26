@@ -1,0 +1,3 @@
+zustand notes 
+
+npm i zustand
